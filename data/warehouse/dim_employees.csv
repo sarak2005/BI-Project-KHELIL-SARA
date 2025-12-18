@@ -1,0 +1,19 @@
+employee_key,employeeid,firstname,lastname,title,emp_norm,source
+1,2,Andrew,Cencini,"Vice President, Sales",andrew cencini,excel
+2,2,Andrew,Fuller,"Vice President, Sales",andrew fuller,sql
+3,9,Anne,Dodsworth,Sales Representative,anne dodsworth,sql
+4,9,Anne,Hellung-Larsen,Sales Representative,anne hellung larsen,excel
+5,3,Jan,Kotas,Sales Representative,jan kotas,excel
+6,3,Janet,Leverling,Sales Representative,janet leverling,sql
+7,8,Laura,Callahan,Inside Sales Coordinator,laura callahan,sql
+8,8,Laura,Giussani,Sales Coordinator,laura giussani,excel
+9,4,Margaret,Peacock,Sales Representative,margaret peacock,sql
+10,4,Mariya,Sergienko,Sales Representative,mariya sergienko,excel
+11,6,Michael,Neipper,Sales Representative,michael neipper,excel
+12,6,Michael,Suyama,Sales Representative,michael suyama,sql
+13,1,Nancy,Davolio,Sales Representative,nancy davolio,sql
+14,1,Nancy,Freehafer,Sales Representative,nancy freehafer,excel
+15,7,Robert,King,Sales Representative,robert king,sql
+16,7,Robert,Zare,Sales Representative,robert zare,excel
+17,5,Steven,Buchanan,Sales Manager,steven buchanan,sql
+18,5,Steven,Thorpe,Sales Manager,steven thorpe,excel

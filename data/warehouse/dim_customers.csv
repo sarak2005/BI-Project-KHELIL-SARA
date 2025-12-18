@@ -1,0 +1,121 @@
+customer_key,customerid,companyname,company_norm,region,city,country,phone,fax,source
+1,ALFKI,Alfreds Futterkiste,alfreds futterkiste,,Berlin,Germany,030-0074321,030-0076545,sql
+2,ANATR,Ana Trujillo Emparedados y helados,ana trujillo emparedados y helados,,México D.F.,Mexico,(5) 555-4729,(5) 555-3745,sql
+3,ANTON,Antonio Moreno Taquería,antonio moreno taqueria,,México D.F.,Mexico,(5) 555-3932,,sql
+4,AROUT,Around the Horn,around the horn,,London,UK,(171) 555-7788,(171) 555-6750,sql
+5,BSBEV,B's Beverages,b's beverages,,London,UK,(171) 555-1212,,sql
+6,BERGS,Berglunds snabbköp,berglunds snabbkop,,Luleå,Sweden,0921-12 34 65,0921-12 34 67,sql
+7,BLAUS,Blauer See Delikatessen,blauer see delikatessen,,Mannheim,Germany,0621-08460,0621-08924,sql
+8,BLONP,Blondesddsl père et fils,blondesddsl pere et fils,,Strasbourg,France,88.60.15.31,88.60.15.32,sql
+9,BOLID,Bólido Comidas preparadas,bolido comidas preparadas,,Madrid,Spain,(91) 555 22 82,(91) 555 91 99,sql
+10,BONAP,Bon app',bon app',,Marseille,France,91.24.45.40,91.24.45.41,sql
+11,BOTTM,Bottom-Dollar Markets,bottom dollar markets,BC,Tsawassen,Canada,(604) 555-4729,(604) 555-3745,sql
+12,CACTU,Cactus Comidas para llevar,cactus comidas para llevar,,Buenos Aires,Argentina,(1) 135-5555,(1) 135-4892,sql
+13,CENTC,Centro comercial Moctezuma,centro comercial moctezuma,,México D.F.,Mexico,(5) 555-3392,(5) 555-7293,sql
+14,CHOPS,Chop-suey Chinese,chop suey chinese,,Bern,Switzerland,0452-076545,,sql
+15,COMMI,Comércio Mineiro,comercio mineiro,SP,Sao Paulo,Brazil,(11) 555-7647,,sql
+16,1,Company A,company a,WA,Seattle,USA,(123)555-0100,(123)555-0101,excel
+17,27,Company AA,company aa,NV,Las Vegas,USA,(123)555-0100,(123)555-0101,excel
+18,2,Company B,company b,MA,Boston,USA,(123)555-0100,(123)555-0101,excel
+19,28,Company BB,company bb,TN,Memphis,USA,(123)555-0100,(123)555-0101,excel
+20,3,Company C,company c,CA,Los Angelas,USA,(123)555-0100,(123)555-0101,excel
+21,29,Company CC,company cc,CO,Denver,USA,(123)555-0100,(123)555-0101,excel
+22,4,Company D,company d,NY,New York,USA,(123)555-0100,(123)555-0101,excel
+23,5,Company E,company e,MN,Minneapolis,USA,(123)555-0100,(123)555-0101,excel
+24,6,Company F,company f,WI,Milwaukee,USA,(123)555-0100,(123)555-0101,excel
+25,7,Company G,company g,ID,Boise,USA,(123)555-0100,(123)555-0101,excel
+26,8,Company H,company h,OR,Portland,USA,(123)555-0100,(123)555-0101,excel
+27,9,Company I,company i,UT,Salt Lake City,USA,(123)555-0100,(123)555-0101,excel
+28,10,Company J,company j,IL,Chicago,USA,(123)555-0100,(123)555-0101,excel
+29,11,Company K,company k,FL,Miami,USA,(123)555-0100,(123)555-0101,excel
+30,12,Company L,company l,NV,Las Vegas,USA,(123)555-0100,(123)555-0101,excel
+31,13,Company M,company m,TN,Memphis,USA,(123)555-0100,(123)555-0101,excel
+32,14,Company N,company n,CO,Denver,USA,(123)555-0100,(123)555-0101,excel
+33,15,Company O,company o,HI,Honolulu,USA,(123)555-0100,(123)555-0101,excel
+34,16,Company P,company p,CA,San Francisco,USA,(123)555-0100,(123)555-0101,excel
+35,17,Company Q,company q,WA,Seattle,USA,(123)555-0100,(123)555-0101,excel
+36,18,Company R,company r,MA,Boston,USA,(123)555-0100,(123)555-0101,excel
+37,19,Company S,company s,CA,Los Angelas,USA,(123)555-0100,(123)555-0101,excel
+38,20,Company T,company t,NY,New York,USA,(123)555-0100,(123)555-0101,excel
+39,21,Company U,company u,MN,Minneapolis,USA,(123)555-0100,(123)555-0101,excel
+40,22,Company V,company v,WI,Milwaukee,USA,(123)555-0100,(123)555-0101,excel
+41,23,Company W,company w,OR,Portland,USA,(123)555-0100,(123)555-0101,excel
+42,24,Company X,company x,UT,Salt Lake City,USA,(123)555-0100,(123)555-0101,excel
+43,25,Company Y,company y,IL,Chicago,USA,(123)555-0100,(123)555-0101,excel
+44,26,Company Z,company z,FL,Miami,USA,(123)555-0100,(123)555-0101,excel
+45,CONSH,Consolidated Holdings,consolidated holdings,,London,UK,(171) 555-2282,(171) 555-9199,sql
+46,WANDK,Die Wandernde Kuh,die wandernde kuh,,Stuttgart,Germany,0711-020361,0711-035428,sql
+47,DRACD,Drachenblut Delikatessen,drachenblut delikatessen,,Aachen,Germany,0241-039123,0241-059428,sql
+48,DUMON,Du monde entier,du monde entier,,Nantes,France,40.67.88.88,40.67.89.89,sql
+49,EASTC,Eastern Connection,eastern connection,,London,UK,(171) 555-0297,(171) 555-3373,sql
+50,ERNSH,Ernst Handel,ernst handel,,Graz,Austria,7675-3425,7675-3426,sql
+51,FAMIA,Familia Arquibaldo,familia arquibaldo,SP,Sao Paulo,Brazil,(11) 555-9857,,sql
+52,FISSA,FISSA Fabrica Inter. Salchichas S.A.,fissa fabrica inter. salchichas s.a.,,Madrid,Spain,(91) 555 94 44,(91) 555 55 93,sql
+53,FOLIG,Folies gourmandes,folies gourmandes,,Lille,France,20.16.10.16,20.16.10.17,sql
+54,FOLKO,Folk och fä HB,folk och fa hb,,Bräcke,Sweden,0695-34 67 21,,sql
+55,FRANR,France restauration,france restauration,,Nantes,France,40.32.21.21,40.32.21.20,sql
+56,FRANS,Franchi S.p.A.,franchi s.p.a.,,Torino,Italy,011-4988260,011-4988261,sql
+57,FRANK,Frankenversand,frankenversand,,München,Germany,089-0877310,089-0877451,sql
+58,FURIB,Furia Bacalhau e Frutos do Mar,furia bacalhau e frutos do mar,,Lisboa,Portugal,(1) 354-2534,(1) 354-2535,sql
+59,GALED,Galería del gastrónomo,galeria del gastronomo,,Barcelona,Spain,(93) 203 4560,(93) 203 4561,sql
+60,GODOS,Godos Cocina Típica,godos cocina tipica,,Sevilla,Spain,(95) 555 82 82,,sql
+61,GOURL,Gourmet Lanchonetes,gourmet lanchonetes,SP,Campinas,Brazil,(11) 555-9482,,sql
+62,GREAL,Great Lakes Food Market,great lakes food market,OR,Eugene,USA,(503) 555-7555,,sql
+63,GROSR,GROSELLA-Restaurante,grosella restaurante,DF,Caracas,Venezuela,(2) 283-2951,(2) 283-3397,sql
+64,HANAR,Hanari Carnes,hanari carnes,RJ,Rio de Janeiro,Brazil,(21) 555-0091,(21) 555-8765,sql
+65,HILAA,HILARION-Abastos,hilarion abastos,Táchira,San Cristóbal,Venezuela,(5) 555-1340,(5) 555-1948,sql
+66,HUNGC,Hungry Coyote Import Store,hungry coyote import store,OR,Elgin,USA,(503) 555-6874,(503) 555-2376,sql
+67,HUNGO,Hungry Owl All-Night Grocers,hungry owl all night grocers,Co. Cork,Cork,Ireland,2967 542,2967 3333,sql
+68,ISLAT,Island Trading,island trading,Isle of Wight,Cowes,UK,(198) 555-8888,,sql
+69,KOENE,Königlich Essen,koniglich essen,,Brandenburg,Germany,0555-09876,,sql
+70,LACOR,La corne d'abondance,la corne d'abondance,,Versailles,France,30.59.84.10,30.59.85.11,sql
+71,LAMAI,La maison d'Asie,la maison d'asie,,Toulouse,France,61.77.61.10,61.77.61.11,sql
+72,LAUGB,Laughing Bacchus Wine Cellars,laughing bacchus wine cellars,BC,Vancouver,Canada,(604) 555-3392,(604) 555-7293,sql
+73,LAZYK,Lazy K Kountry Store,lazy k kountry store,WA,Walla Walla,USA,(509) 555-7969,(509) 555-6221,sql
+74,LEHMS,Lehmanns Marktstand,lehmanns marktstand,,Frankfurt a.M.,Germany,069-0245984,069-0245874,sql
+75,LETSS,Let's Stop N Shop,let's stop n shop,CA,San Francisco,USA,(415) 555-5938,,sql
+76,LILAS,LILA-Supermercado,lila supermercado,Lara,Barquisimeto,Venezuela,(9) 331-6954,(9) 331-7256,sql
+77,LINOD,LINO-Delicateses,lino delicateses,Nueva Esparta,I. de Margarita,Venezuela,(8) 34-56-12,(8) 34-93-93,sql
+78,LONEP,Lonesome Pine Restaurant,lonesome pine restaurant,OR,Portland,USA,(503) 555-9573,(503) 555-9646,sql
+79,MAGAA,Magazzini Alimentari Riuniti,magazzini alimentari riuniti,,Bergamo,Italy,035-640230,035-640231,sql
+80,MAISD,Maison Dewey,maison dewey,,Bruxelles,Belgium,(02) 201 24 67,(02) 201 24 68,sql
+81,MEREP,Mère Paillarde,mere paillarde,Québec,Montréal,Canada,(514) 555-8054,(514) 555-8055,sql
+82,MORGK,Morgenstern Gesundkost,morgenstern gesundkost,,Leipzig,Germany,0342-023176,,sql
+83,NORTS,North/South,north/south,,London,UK,(171) 555-7733,(171) 555-2530,sql
+84,OCEAN,Océano Atlántico Ltda.,oceano atlantico ltda.,,Buenos Aires,Argentina,(1) 135-5333,(1) 135-5535,sql
+85,OLDWO,Old World Delicatessen,old world delicatessen,AK,Anchorage,USA,(907) 555-7584,(907) 555-2880,sql
+86,OTTIK,Ottilies Käseladen,ottilies kaseladen,,Köln,Germany,0221-0644327,0221-0765721,sql
+87,PARIS,Paris spécialités,paris specialites,,Paris,France,(1) 42.34.22.66,(1) 42.34.22.77,sql
+88,PERIC,Pericles Comidas clásicas,pericles comidas clasicas,,México D.F.,Mexico,(5) 552-3745,(5) 545-3745,sql
+89,PICCO,Piccolo und mehr,piccolo und mehr,,Salzburg,Austria,6562-9722,6562-9723,sql
+90,PRINI,Princesa Isabel Vinhos,princesa isabel vinhos,,Lisboa,Portugal,(1) 356-5634,,sql
+91,QUEDE,Que Delícia,que delicia,RJ,Rio de Janeiro,Brazil,(21) 555-4252,(21) 555-4545,sql
+92,QUEEN,Queen Cozinha,queen cozinha,SP,Sao Paulo,Brazil,(11) 555-1189,,sql
+93,QUICK,QUICK-Stop,quick stop,,Cunewalde,Germany,0372-035188,,sql
+94,RANCH,Rancho grande,rancho grande,,Buenos Aires,Argentina,(1) 123-5555,(1) 123-5556,sql
+95,RATTC,Rattlesnake Canyon Grocery,rattlesnake canyon grocery,NM,Albuquerque,USA,(505) 555-5939,(505) 555-3620,sql
+96,REGGC,Reggiani Caseifici,reggiani caseifici,,Reggio Emilia,Italy,0522-556721,0522-556722,sql
+97,RICAR,Ricardo Adocicados,ricardo adocicados,RJ,Rio de Janeiro,Brazil,(21) 555-3412,,sql
+98,RICSU,Richter Supermarkt,richter supermarkt,,Genève,Switzerland,0897-034214,,sql
+99,ROMEY,Romero y tomillo,romero y tomillo,,Madrid,Spain,(91) 745 6200,(91) 745 6210,sql
+100,SANTG,Santé Gourmet,sante gourmet,,Stavern,Norway,07-98 92 35,07-98 92 47,sql
+101,SAVEA,Save-a-lot Markets,save a lot markets,ID,Boise,USA,(208) 555-8097,,sql
+102,SEVES,Seven Seas Imports,seven seas imports,,London,UK,(171) 555-1717,(171) 555-5646,sql
+103,SIMOB,Simons bistro,simons bistro,,Kobenhavn,Denmark,31 12 34 56,31 13 35 57,sql
+104,SPECD,Spécialités du monde,specialites du monde,,Paris,France,(1) 47.55.60.10,(1) 47.55.60.20,sql
+105,SPLIR,Split Rail Beer & Ale,split rail beer & ale,WY,Lander,USA,(307) 555-4680,(307) 555-6525,sql
+106,SUPRD,Suprêmes délices,supremes delices,,Charleroi,Belgium,(071) 23 67 22 20,(071) 23 67 22 21,sql
+107,THEBI,The Big Cheese,the big cheese,OR,Portland,USA,(503) 555-3612,,sql
+108,THECR,The Cracker Box,the cracker box,MT,Butte,USA,(406) 555-5834,(406) 555-8083,sql
+109,TOMSP,Toms Spezialitäten,toms spezialitaten,,Münster,Germany,0251-031259,0251-035695,sql
+110,TORTU,Tortuga Restaurante,tortuga restaurante,,México D.F.,Mexico,(5) 555-2933,,sql
+111,TRADH,Tradição Hipermercados,tradicao hipermercados,SP,Sao Paulo,Brazil,(11) 555-2167,(11) 555-2168,sql
+112,TRAIH,Trail's Head Gourmet Provisioners,trail's head gourmet provisioners,WA,Kirkland,USA,(206) 555-8257,(206) 555-2174,sql
+113,VAFFE,Vaffeljernet,vaffeljernet,,Århus,Denmark,86 21 32 43,86 22 33 44,sql
+114,VICTE,Victuailles en stock,victuailles en stock,,Lyon,France,78.32.54.86,78.32.54.87,sql
+115,VINET,Vins et alcools Chevalier,vins et alcools chevalier,,Reims,France,26.47.15.10,26.47.15.11,sql
+116,WARTH,Wartian Herkku,wartian herkku,,Oulu,Finland,981-443655,981-443655,sql
+117,WELLI,Wellington Importadora,wellington importadora,SP,Resende,Brazil,(14) 555-8122,,sql
+118,WHITC,White Clover Markets,white clover markets,WA,Seattle,USA,(206) 555-4112,(206) 555-4115,sql
+119,WILMK,Wilman Kala,wilman kala,,Helsinki,Finland,90-224 8858,90-224 8858,sql
+120,WOLZA,Wolski  Zajazd,wolski zajazd,,Warszawa,Poland,(26) 642-7012,(26) 642-7012,sql
